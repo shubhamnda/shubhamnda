@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamnda
 - 👀 I’m interested in creating innovative apps!!
 - 🌱 I’m currently learning swift for ios app development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on open source and more !!
 - 📫 How to reach me ---> Twitter = @_Shubham_2004
 
 <!---
