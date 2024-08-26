@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM NANDA</h1>
-<h3 align="center">A passionate iOS developer</h3>
+<h3 align="center">A Passionate iOS Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/@_shubham_2004" target="blank"><img src="https://img.shields.io/twitter/follow/@_shubham_2004?logo=twitter&style=for-the-badge" alt="@_shubham_2004" /></a> </p>
 
