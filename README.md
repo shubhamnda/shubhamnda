@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamnda](https://github.com/shubhamnda)
 
-- 🌐 My portfolio website [https://www.shubhamnandaportfolio.live/](https://www.shubhamnandaportfolio.live/)
+- 🌐 My portfolio website [https://www.shubhamnandaportfolio.live](https://www.shubhamnandaportfolio.live/)
 
 - 💬 Ask me about **Swift, SwiftUI, CocoaPods**
 
